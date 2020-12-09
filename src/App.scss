@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.donut_tile{
+  margin-right: 35px;
+  width: 200px;
+}
+
+.container{
+  display: block;
+}
