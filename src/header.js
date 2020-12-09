@@ -8,7 +8,7 @@ export const Header = () => {
         <bs.Navbar expand="lg">
             <Link to="/">
                 <bs.Navbar.Brand>
-                    <img width="75px" height="75px" alt="Paradise Donuts" src="https://paradise-donut-images.s3.amazonaws.com/isaac-quesada-0kF7wNPl1kk-unsplash.jpg" />
+                    <img width="95px" height="75px" alt="Paradise Donuts" src="https://paradise-donut-images.s3.amazonaws.com/isaac-quesada-0kF7wNPl1kk-unsplash.jpg" />
                 </bs.Navbar.Brand>
             </Link>
             <h1 style={{textAlign:"center", marginRight: "50px" }}>Paradise Donuts</h1>
