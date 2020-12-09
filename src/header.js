@@ -20,6 +20,7 @@ export const Header = () => {
                     <Link to="/donuts/Specialty" className="nav-link">Specialty</Link>
                     <Link to="/donuts/Filled" className="nav-link">Filled</Link>
                     <Link to="/donuts/Seasonal" className="nav-link">Seasonal</Link>
+                    <Link to="/donuts/Cake" className="nav-link">Cake</Link>
                 </bs.Nav>
             </bs.Navbar.Collapse>
         </bs.Navbar>
