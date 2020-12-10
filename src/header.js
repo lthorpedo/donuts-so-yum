@@ -11,7 +11,7 @@ export const Header = () => {
                     <img width="95px" height="75px" alt="Paradise Donuts" src="https://paradise-donut-images.s3.amazonaws.com/isaac-quesada-0kF7wNPl1kk-unsplash.jpg" />
                 </bs.Navbar.Brand>
             </Link>
-            <h1 style={{textAlign:"center", marginRight: "50px" }}>Paradise Donuts</h1>
+            <h1 style={{textAlign:"center", marginRight: "50px" }}>Paradise Donut Selection</h1>
             <bs.Navbar.Toggle aria-controls="basic-navbar-nav" />
             <bs.Navbar.Collapse id="basic-navbar-nav">
                 <bs.Nav className="mr-auto">
